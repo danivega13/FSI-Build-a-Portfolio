@@ -1,0 +1,55 @@
+body {
+    background-color: #1e4d2b;
+    font-family: 'Playfair Display', serif;
+    color: #eae6da;
+    cursor: crosshair;
+}
+  {  <link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@1,900&display=swap" rel="stylesheet">
+  }
+  h1{
+    background-color: #eae6da;
+    color: #ff1838 ;
+    text-align: Center;
+    border: solid;
+}
+h3 {
+    color: #eae6da;
+    text-decoration: underline overline #ff1838;
+    text-align: center;
+}
+
+h2{
+    color: #eae6da;
+    text-align: Center;
+}
+  p{
+      text-align:center;
+  }
+  i{color:#ff1838}
+img {
+    display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 35%;
+  border-radius: 50%;
+}
+ul,li{
+    color: #eae6da;
+    text-align: center;
+    list-style-position:inside;
+}
+a{
+    color: #ff1838;
+    text-align: Center;
+}
+
+/* Here are some ideas to get you started:
+Add a background color or image to your portfolio.
+Make your images more aesthetically appealing by giving them a border radius.
+Center certain parts of your content according to your liking.
+Add images to the images directory, reference them in your HTML, and give them a border color.
+Change the font of parts or all of your page.
+Give your page a new cursor.
+*/
